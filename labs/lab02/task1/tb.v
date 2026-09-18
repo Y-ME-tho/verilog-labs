@@ -19,6 +19,7 @@ module tb;
     .I1(t_i1),
     .S(t_s),
     .Y(t_y)
+    
   );
 
 

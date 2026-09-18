@@ -16,6 +16,7 @@ module DUT (
     .I1 (I1),
     .S  (S),
     .Y  (Y)
+    
   );
 
   // ---- Option 2: behavioral version ----
